@@ -6,3 +6,8 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+
+.glass-effect {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+}
