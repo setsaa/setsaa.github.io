@@ -15,7 +15,7 @@ params:
   
   disableThemeToggle: false
 
-  ShowReadingTime: false
+  ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
@@ -28,7 +28,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: true
-  showtoc: true
+  showtoc: false
   tocopen: false
 
   label:
@@ -39,7 +39,8 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Heisann \U0001F44B"
-    Content: "I'm a norwegian AI student. Check out my projects on GitHub or
+    Content: "
+             I'm a norwegian AI student. Check out my projects on GitHub or
              take a look at my experience on LinkedIn. Reach out via my 
              email below, I always love to have a cup of coffee! ☕"
 
@@ -66,9 +67,9 @@ menu:
       name: About me
       url: /about/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 20
     - identifier: linkedin
       name: LinkedIn

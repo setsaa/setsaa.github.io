@@ -6,7 +6,16 @@
     <description>Recent content on Sigurd</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://setsa.no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://setsa.no/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://setsa.no/about/</guid>
+      <description>Hei!
+I am a master student in artificial intelligence at the University of Technology Sydney. I&amp;rsquo;m passionate about machine learning, deep learning, and computer vision. Currently, I&amp;rsquo;m working on my thesis project, which focuses on developing a novel deep learning model for neuron segmentation for connectomics.
+Originally from Svalbard, I have always been fascinated by technology and understanding the human brain. I have a bachelor&amp;rsquo;s degree in cognitive science from the University of Bergen, where I specialized in computer science.</description>
+    </item>
   </channel>
 </rss>
