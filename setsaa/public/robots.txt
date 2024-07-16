@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: PerplexityBot
+Disallow: /
+
+
+Sitemap: http://localhost:1313/sitemap.xml
