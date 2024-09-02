@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Sigurd Johnsen Setså</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://setsa.no/posts/</link>
         <description>Recent content in Posts on Sigurd Johnsen Setså</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <lastBuildDate>Sun, 09 Jun 2024 15:15:13 +0200</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://setsa.no/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Neuron Segmentation</title>
-            <link>http://localhost:1313/posts/neuron-segmentation/</link>
+            <link>https://setsa.no/posts/neuron-segmentation/</link>
             <pubDate>Sun, 09 Jun 2024 15:15:13 +0200</pubDate>
             
-            <guid>http://localhost:1313/posts/neuron-segmentation/</guid>
+            <guid>https://setsa.no/posts/neuron-segmentation/</guid>
             <description>Image: Scan of a part of nervous tissue. Bioscience Image Library, Fayette Reynolds.
 During my final year of my computer vision degree, I wrote a paper titled &amp;ldquo;Know Your Neighbour&amp;rdquo;. In it, I highlighted how techniques in machine learning can be used to improve the efficiency of what&amp;rsquo;s called &amp;ldquo;3-dimensional neuron segmentation&amp;rdquo;, i.e, the process of identififying neurons in 3D space. Both me and my supervisor were very happy with the results, so I decided to write this blog, explaining what it is, how it works and what implications it can have for the future of neuroscience.</description>
-            <content type="html"><![CDATA[<p><img alt="Old photo of me as a kid, looking cool" src="/bioscience-image-library-by-fayette-reynolds-WkDk5Dt3tk0-unsplash.jpg">Image: Scan of a part of nervous tissue. <em>Bioscience Image Library, Fayette Reynolds.</em></p>
+            <content type="html"><![CDATA[<p><img alt="Illustration" src="/bioscience-image-library-by-fayette-reynolds-WkDk5Dt3tk0-unsplash.jpg">Image: Scan of a part of nervous tissue. <em>Bioscience Image Library, Fayette Reynolds.</em></p>
 <h1 id="heading"></h1>
 <h1 id="heading-1"></h1>
 <p><em>During my final year of my computer vision degree, I wrote a paper titled &ldquo;Know Your Neighbour&rdquo;. In it, I highlighted how techniques in machine learning can be used to improve the efficiency of what&rsquo;s called &ldquo;3-dimensional neuron segmentation&rdquo;, i.e, the process of identififying neurons in 3D space. Both me and my supervisor were very happy with the results, so I decided to write this blog, explaining what it is, how it works and what implications it can have for the future of neuroscience.</em></p>

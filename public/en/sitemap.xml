@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://setsa.no/about/</loc>
     <lastmod>2024-06-09T21:47:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://setsa.no/</loc>
     <lastmod>2024-06-09T21:47:21+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="http://localhost:1313/no/"
+                href="https://setsa.no/no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://setsa.no/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/neuron-segmentation/</loc>
+    <loc>https://setsa.no/posts/neuron-segmentation/</loc>
     <lastmod>2024-06-09T15:15:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://setsa.no/posts/</loc>
     <lastmod>2024-06-09T15:15:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://setsa.no/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="http://localhost:1313/no/categories/"
+                href="https://setsa.no/no/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://setsa.no/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://setsa.no/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="http://localhost:1313/no/tags/"
+                href="https://setsa.no/no/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://setsa.no/tags/"
                 />
   </url>
 </urlset>

@@ -4,7 +4,7 @@ date = 2024-06-09T15:15:13+02:00
 draft = false
 +++
 
-![Old photo of me as a kid, looking cool](/bioscience-image-library-by-fayette-reynolds-WkDk5Dt3tk0-unsplash.jpg)Image: Scan of a part of nervous tissue. *Bioscience Image Library, Fayette Reynolds.*
+![Illustration](/bioscience-image-library-by-fayette-reynolds-WkDk5Dt3tk0-unsplash.jpg)Image: Scan of a part of nervous tissue. *Bioscience Image Library, Fayette Reynolds.*
 
 #
 #
