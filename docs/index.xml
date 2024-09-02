@@ -4,18 +4,27 @@
     <title>Sigurd</title>
     <link>https://setsa.no/</link>
     <description>Recent content on Sigurd</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://setsa.no/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
+      <title>Neuron Segmentation</title>
+      <link>https://setsa.no/posts/neuron-segmentation/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://setsa.no/posts/neuron-segmentation/</guid>
+      <description>Image: Scan of a part of nervous tissue. Bioscience Image Library, Fayette Reynolds.
+During my final year of my computer vision degree, I wrote a paper titled &amp;ldquo;Know Your Neighbour&amp;rdquo;. In it, I highlighted how techniques in machine learning can be used to improve the efficiency of what&amp;rsquo;s called &amp;ldquo;3-dimensional neuron segmentation&amp;rdquo;, i.e, the process of identififying neurons in 3D space. Both me and my supervisor were very happy with the results, so I decided to write this blog, explaining what it is, how it works and what implications it can have for the future of neuroscience.</description>
+    </item>
+    <item>
+      <title>Hi, human 👋</title>
       <link>https://setsa.no/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jun 2024 21:47:21 +0200</pubDate>
       <guid>https://setsa.no/about/</guid>
-      <description>Hei!
-I am a master student in artificial intelligence at the University of Technology Sydney. I&amp;rsquo;m passionate about machine learning, deep learning, and computer vision. Currently, I&amp;rsquo;m working on my thesis project, which focuses on developing a novel deep learning model for neuron segmentation for connectomics.
-Originally from Svalbard, I have always been fascinated by technology and understanding the human brain. I have a bachelor&amp;rsquo;s degree in cognitive science from the University of Bergen, where I specialized in computer science.</description>
+      <description>Photo: Me looking cool as a child.
+My name is Sigurd and I&amp;rsquo;m a norwegian AI researcher, student and engineer. I currently live in Sydney, Australia where I&amp;rsquo;m earning a MSc Artificial Intelligence at University of Technology Sydney (UTS).
+Did you know UTS has been named the third best university in the world for artificial intelligence? Source: US News Education
+I grew up 78° north in Longyearbyen, Svalbard, a Norwegian archipelago close to the north pole where my father worked as a coal miner.</description>
     </item>
   </channel>
 </rss>

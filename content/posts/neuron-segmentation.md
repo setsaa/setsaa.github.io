@@ -1,6 +1,6 @@
 +++
 title = 'Neuron Segmentation'
-date = 2024-06-09T15:15:13+02:00
+date = 2024-09-02
 draft = false
 +++
 

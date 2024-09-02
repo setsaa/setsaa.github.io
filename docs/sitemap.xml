@@ -2,13 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://setsa.no/posts/neuron-segmentation/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://setsa.no/posts/</loc>
-    <lastmod>2024-07-16T18:19:40+02:00</lastmod>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://setsa.no/</loc>
-    <lastmod>2024-07-16T18:19:40+02:00</lastmod>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://setsa.no/about/</loc>
+    <lastmod>2024-06-09T21:47:21+02:00</lastmod>
   </url><url>
     <loc>https://setsa.no/categories/</loc>
   </url><url>

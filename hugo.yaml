@@ -33,7 +33,7 @@ params:
 
   label:
     text: "Sigurd Setså"
-    icon: /apple-touch-icon.png
+    icon: /android-chrome-512x512.png
     iconHeight: 35
   
   # home-info mode
