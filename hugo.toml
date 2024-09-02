@@ -1,0 +1,80 @@
+baseURL = 'https://setsa.no/'
+languageCode = 'en-us'
+title = 'Sigurd Johnsen Setså'
+theme = 'hello-friend-ng'
+
+[params]
+    dateform = "2 Jan, 2006"
+
+    homeSubtitle = "AI researcher, developer, and MSc student"
+
+    # Show a global language switcher in the navigation bar
+    enableGlobalLanguageMenu = true
+
+    # Metadata mostly used in document's head
+    description = "My personal blog"
+    keywords = "homepage, blog"
+    images = [""]
+
+
+[languages]
+    [languages.en]
+        title = "Sigurd Johnsen Setså"
+        keywords = ""
+        readOtherPosts = "Read other posts"
+
+    [languages.en.params]
+        subtitle = "AI researcher, developer, and MSc student"
+
+    [languages.en.params.logo]
+        logoText = "Welcome"
+        logoHomeLink = "/en/"
+
+    [languages.no]
+        title = "Sigurd Johnsen Setså"
+        keywords = ""
+        readOtherPosts = "Les andre innlegg"
+    
+    [languages.no.params]
+        subtitle = "AI forsker, utvikler, og masterstudent"
+    
+    [languages.no.params.logo]
+        logoText = "Velkommen"
+        logoHomeLink = "/no/"
+
+
+[[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
+
+
+[[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/sigurds"
+
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/Setsaa/"
+
+
+[[params.social]]
+    name = "email"
+    url = "mailto:sigurd@setsa.no"
+
+
+[[params.social]]
+    name = "letterboxd"
+    url = "https://letterboxd.com/setsa/"
+
+
+[[params.social]]
+    name = "orcid"
+    url = "https://orcid.org/0009-0008-0706-3342"

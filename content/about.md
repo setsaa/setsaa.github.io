@@ -1,24 +1,20 @@
 +++
-title = 'About me'
+title = 'Hi, human 👋'
+date = 2024-06-09T21:47:21+02:00
 draft = false
-ShowReadingTime = false
 +++
 
-&nbsp; 
+_Updated September 2, 2024_
 
-![A very cool picture of me as a kid](/me.png)
+![Old photo of me as a kid, looking cool](/young-me.png)Photo: *Me looking cool as a child.*
 
-&nbsp; 
+#
+#
 
-Hei!
+My name is Sigurd and I'm a norwegian AI researcher, student and engineer. I currently live in Sydney, Australia where I'm earning a MSc Artificial Intelligence at University of Technology Sydney (UTS).
 
-I am a master student in artificial intelligence at the University of Technology Sydney. I'm passionate about machine learning, deep learning, and computer vision. Currently, I'm working on my thesis project, which focuses on developing a novel deep learning model for neuron segmentation for [connectomics](https://en.wikipedia.org/wiki/Connectome).
+> Did you know UTS has been [named](https://www.usnews.com/education/best-global-universities/artificial-intelligence) the third best university in the world for artificial intelligence? *Source: US News Education*
 
-Originally from Svalbard, I have always been fascinated by technology and understanding the human brain. I have a bachelor's degree in cognitive science from the University of Bergen, where I specialized in computer science. Never boring, I also have a foot in the innovation sector, having worked for Startuplab and a few startups.
+I grew up 78° north in Longyearbyen, Svalbard, a Norwegian archipelago close to the north pole where my father worked as a coal miner. Learn more about my story [here](https://vimeo.com/768086673).
 
-In my free time, I enjoy baking, cooking and hiking. I also love to travel and explore new cultures. I am always up for a good conversation, so feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sigurds).
-
-&nbsp; 
-
-All the best, \
-*Sigurd*
+I have experience working as Project Manager for Startuplab, Norway's largest and best tech incubator and investor. I also have experience working as an AI Research Engineer in Sydney. Currently, I'm focused on university and I intend to graduate in time by November 2024.
