@@ -71,6 +71,10 @@ menu:
       name: Posts
       url: /posts/
       weight: 20
+    - identifier: recipes
+      name: Recipes
+      url: /recipes/
+      weight: 20
     - identifier: linkedin
       name: LinkedIn
       url: https://linkedin.com/in/sigurds

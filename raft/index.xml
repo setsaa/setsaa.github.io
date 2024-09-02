@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sigurd</title>
-    <link>https://setsa.no/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sigurd</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2024 18:44:17 +1000</lastBuildDate>
-    <atom:link href="https://setsa.no/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Browned Butter Cookies</title>
-      <link>https://setsa.no/recipes/browned-butter-cookies/</link>
-      <pubDate>Mon, 02 Sep 2024 18:44:17 +1000</pubDate>
-      <guid>https://setsa.no/recipes/browned-butter-cookies/</guid>
-      <description>Ingredients Unsalted butter - 200g Sugar - 100g Brown sugar - 200g Vanilla extract - 2ts Large Eggs - 2 Flour - 300g Baking soda - 1/2ts Baking powder - 1/2ts Toffee candy bar - ~80g Chocolate - 200g Table salt Seasalt Method Cook 200g unsalted butter in a saucepan over medium heat, stirring often, until it foams, then browns. It should start to smell nutty. If it doesn&amp;rsquo;t smell any different than regular butter, let it cook longer.</description>
-    </item>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neuron Segmentation</title>
-      <link>https://setsa.no/posts/neuron-segmentation/</link>
+      <link>http://localhost:1313/posts/neuron-segmentation/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://setsa.no/posts/neuron-segmentation/</guid>
+      <guid>http://localhost:1313/posts/neuron-segmentation/</guid>
       <description>Image: Scan of a part of nervous tissue. Bioscience Image Library, Fayette Reynolds.
 During my final year of my computer vision degree, I wrote a paper titled &amp;ldquo;Know Your Neighbour&amp;rdquo;. In it, I highlighted how techniques in machine learning can be used to improve the efficiency of what&amp;rsquo;s called &amp;ldquo;3-dimensional neuron segmentation&amp;rdquo;, i.e, the process of identififying neurons in 3D space. Both me and my supervisor were very happy with the results, so I decided to write this blog, explaining what it is, how it works and what implications it can have for the future of neuroscience.</description>
     </item>
     <item>
       <title>Hi, human 👋</title>
-      <link>https://setsa.no/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 09 Jun 2024 21:47:21 +0200</pubDate>
-      <guid>https://setsa.no/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Photo: Me looking cool as a child.
 My name is Sigurd and I&amp;rsquo;m a norwegian AI researcher, student and engineer. I currently live in Sydney, Australia where I&amp;rsquo;m earning a MSc Artificial Intelligence at University of Technology Sydney (UTS).
 Did you know UTS has been named the third best university in the world for artificial intelligence? Source: US News Education
