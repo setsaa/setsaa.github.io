@@ -3,7 +3,7 @@ title: Sigurd
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
-publishDir: "public"
+publishDir: "docs"
 
 enableRobotsTXT: true
 
