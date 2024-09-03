@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Sigurd</title>
-    <link>https://setsa.no/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Sigurd</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://setsa.no/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neuron Segmentation</title>
-      <link>https://setsa.no/posts/neuron-segmentation/</link>
+      <link>http://localhost:1313/posts/neuron-segmentation/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://setsa.no/posts/neuron-segmentation/</guid>
+      <guid>http://localhost:1313/posts/neuron-segmentation/</guid>
       <description>Image: Scan of a part of nervous tissue. Bioscience Image Library, Fayette Reynolds.
 During my final year of my computer vision degree, I wrote a paper titled &amp;ldquo;Know Your Neighbour&amp;rdquo;. In it, I highlighted how techniques in machine learning can be used to improve the efficiency of what&amp;rsquo;s called &amp;ldquo;3-dimensional neuron segmentation&amp;rdquo;, i.e, the process of identififying neurons in 3D space. Both me and my supervisor were very happy with the results, so I decided to write this blog, explaining what it is, how it works and what implications it can have for the future of neuroscience.</description>
     </item>

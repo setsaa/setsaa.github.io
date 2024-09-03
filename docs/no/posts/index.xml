@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Sigurd</title>
-    <link>https://setsa.no/no/posts/</link>
+    <link>http://localhost:1313/no/posts/</link>
     <description>Recent content in Posts on Sigurd</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>no-NB</language>
     <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://setsa.no/no/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/no/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neuronsegmentering</title>
-      <link>https://setsa.no/no/posts/neuron-segmentation/</link>
+      <link>http://localhost:1313/no/posts/neuron-segmentation/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://setsa.no/no/posts/neuron-segmentation/</guid>
+      <guid>http://localhost:1313/no/posts/neuron-segmentation/</guid>
       <description>Bilde: Skanning av en del av nervøst vev. Bioscience Image Library, Fayette Reynolds.
 I løpet av det siste året av graden min i datavisjon, skrev jeg en artikkel med tittelen &amp;ldquo;Know Your Neighbour&amp;rdquo;. I den fremhevet jeg hvordan teknikker innen maskinlæring kan brukes til å forbedre effektiviteten av det som kalles &amp;ldquo;3-dimensjonal neuronsegmentering&amp;rdquo;, altså prosessen med å identifisere nevroner i 3D-rom. Både jeg og veilederen min var veldig fornøyde med resultatene, så jeg bestemte meg for å skrive denne bloggen, som forklarer hva det er, hvordan det fungerer og hvilke implikasjoner det kan ha for fremtiden til nevrovitenskap.</description>
     </item>
