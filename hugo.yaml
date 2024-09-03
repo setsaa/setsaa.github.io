@@ -1,5 +1,4 @@
 baseURL: https://setsa.no/
-languageCode: en-us
 title: Sigurd
 module:
   imports:
@@ -10,10 +9,8 @@ enableRobotsTXT: true
 
 params:
   env: production  # Enable Social-Metadata and SEO
-  
-
-  
-  disableThemeToggle: false
+    
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -36,14 +33,6 @@ params:
     icon: /android-chrome-512x512.png
     iconHeight: 35
   
-  # home-info mode
-  homeInfoParams:
-    Title: "Heisann \U0001F44B"
-    Content: "
-             I'm a norwegian AI student. Check out my projects on GitHub or
-             take a look at my experience on LinkedIn. Reach out via my 
-             email below, I always love to have a cup of coffee! ☕"
-
   socialIcons:
     - name: linkedin
       url: "https://linkedin.com/in/sigurds"
@@ -52,30 +41,76 @@ params:
     - name: github
       url: "https://github.com/setsaa"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-menu:
-  main:
-    - identifier: about
-      name: About me
-      url: /about/
-      weight: 10
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 20
-    - identifier: recipes
-      name: Recipes
-      url: /recipes/
-      weight: 20
-    - identifier: linkedin
-      name: LinkedIn
-      url: https://linkedin.com/in/sigurds
-      weight: 30
+languages:
+  en:
+    disabled: false
+    contentDir: content/en
+    languageName: English
+    languageCode: en-US
+    menus:
+      main:
+      - identifier: about
+        name: About me
+        url: /en/about/
+        weight: 10
+      - identifier: posts
+        name: Posts
+        url: /en/posts/
+        weight: 20
+      - identifier: recipes
+        name: Recipes
+        url: /en/recipes/
+        weight: 30
+      - identifier: linkedin
+        name: LinkedIn
+        url: https://linkedin.com/in/sigurds
+        weight: 40
+    params:
+      homeInfoParams:
+        title: "Heisann \U0001F44B"
+        content: "
+                I'm a norwegian AI student. Check out my projects on GitHub or
+                take a look at my experience on LinkedIn. Reach out via my 
+                email below, I always love to have a cup of coffee! ☕"
+
+  "no":
+    disabled: false
+    contentDir: content/no
+    languageName: Norsk
+    languageCode: no-NB  
+    menus:
+      main:
+      - identifier: about
+        name: Om meg
+        url: /no/about/
+        weight: 10
+      - identifier: posts
+        name: Innlegg
+        url: /no/posts/
+        weight: 20
+      - identifier: recipes
+        name: Oppskrifter
+        url: /no/recipes/
+        weight: 30
+      - identifier: linkedin
+        name: LinkedIn
+        url: https://linkedin.com/in/sigurds
+        weight: 40
+    params:
+      homeInfoParams:
+        title: "Heisann \U0001F44B"
+        content: "
+                Jeg er en KI student i Australia. Sjekk ut prosjektene mine på GitHub eller
+                se på profilen min på LinkedIn. Du kan nå meg med eposten under, jeg tar gjerne
+                en kopp kaffe! ☕"
+
+  Sapmí:
+    disabled: true
+    contentDir: content/sap
+    languageName: Sapmí
+    languageCode: sap-SME

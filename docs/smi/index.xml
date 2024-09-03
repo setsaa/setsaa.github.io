@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sigurd</title>
+    <link>http://localhost:1313/smi/</link>
+    <description>Recent content on Sigurd</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>smi</language>
+    <lastBuildDate>Tue, 03 Sep 2024 10:15:39 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/smi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/smi/about/</link>
+      <pubDate>Tue, 03 Sep 2024 10:15:39 +1000</pubDate>
+      <guid>http://localhost:1313/smi/about/</guid>
+      <description>Photo: Me looking cool as a child.
+Jeg heter Sigurd og jeg er en AI utvikler og student. Foreløpig bor jeg i Sydney, Australia hvor jeg studerer master i kunstig intelligens på University of Technology Sydney (UTS).
+Did you know UTS has been named the third best university in the world for artificial intelligence? Source: US News Education
+I grew up 78° north in Longyearbyen, Svalbard, a Norwegian archipelago close to the north pole where my father worked as a coal miner.</description>
+    </item>
+  </channel>
+</rss>
