@@ -1,3 +1,4 @@
 docs/
 go.sum
 *.lock
+.idea/
