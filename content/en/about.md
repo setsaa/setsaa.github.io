@@ -1,6 +1,6 @@
 +++
 title = 'Hi, human 👋'
-date = 2024-06-09T21:47:21+02:00
+date = 2024-09-03T10:15:39+10:00
 draft = false
 ShowReadingTime = false
 +++

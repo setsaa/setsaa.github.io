@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-09-03T10:15:39+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no-NB"
+                href="http://localhost:1313/no/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-03T10:15:39+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no-NB"
+                href="http://localhost:1313/no/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/"
+                />
+  </url><url>
     <loc>http://localhost:1313/recipes/browned-butter-cookies/</loc>
     <lastmod>2024-09-02T18:44:17+10:00</lastmod>
     <xhtml:link
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/recipes/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-02T18:44:17+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no-NB"
-                href="http://localhost:1313/no/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/"
                 />
   </url><url>
     <loc>http://localhost:1313/recipes/veggie-lasagne/</loc>
@@ -78,19 +91,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-06-09T21:47:21+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no-NB"
-                href="http://localhost:1313/no/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

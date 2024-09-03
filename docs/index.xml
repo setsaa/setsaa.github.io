@@ -6,8 +6,18 @@
     <description>Recent content on Sigurd</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Sep 2024 18:44:17 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 10:15:39 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi, human 👋</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 03 Sep 2024 10:15:39 +1000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Photo: Me looking cool as a child.
+My name is Sigurd and I&amp;rsquo;m a norwegian AI researcher, student and engineer. I currently live in Sydney, Australia where I&amp;rsquo;m earning a MSc Artificial Intelligence at University of Technology Sydney (UTS).
+Did you know UTS has been named the third best university in the world for artificial intelligence? Source: US News Education
+I grew up 78° north in Longyearbyen, Svalbard, a Norwegian archipelago close to the north pole where my father worked as a coal miner.</description>
+    </item>
     <item>
       <title>Browned Butter Cookies</title>
       <link>http://localhost:1313/recipes/browned-butter-cookies/</link>
@@ -29,16 +39,6 @@
       <guid>http://localhost:1313/posts/neuron-segmentation/</guid>
       <description>Image: Scan of a part of nervous tissue. Bioscience Image Library, Fayette Reynolds.
 During my final year of my computer vision degree, I wrote a paper titled &amp;ldquo;Know Your Neighbour&amp;rdquo;. In it, I highlighted how techniques in machine learning can be used to improve the efficiency of what&amp;rsquo;s called &amp;ldquo;3-dimensional neuron segmentation&amp;rdquo;, i.e, the process of identififying neurons in 3D space. Both me and my supervisor were very happy with the results, so I decided to write this blog, explaining what it is, how it works and what implications it can have for the future of neuroscience.</description>
-    </item>
-    <item>
-      <title>Hi, human 👋</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 09 Jun 2024 21:47:21 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Photo: Me looking cool as a child.
-My name is Sigurd and I&amp;rsquo;m a norwegian AI researcher, student and engineer. I currently live in Sydney, Australia where I&amp;rsquo;m earning a MSc Artificial Intelligence at University of Technology Sydney (UTS).
-Did you know UTS has been named the third best university in the world for artificial intelligence? Source: US News Education
-I grew up 78° north in Longyearbyen, Svalbard, a Norwegian archipelago close to the north pole where my father worked as a coal miner.</description>
     </item>
   </channel>
 </rss>

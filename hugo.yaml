@@ -56,15 +56,15 @@ languages:
       main:
       - identifier: about
         name: About me
-        url: /en/about/
+        url: /about/
         weight: 10
       - identifier: posts
         name: Posts
-        url: /en/posts/
+        url: /posts/
         weight: 20
       - identifier: recipes
         name: Recipes
-        url: /en/recipes/
+        url: /recipes/
         weight: 30
       - identifier: linkedin
         name: LinkedIn
