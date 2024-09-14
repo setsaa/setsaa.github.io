@@ -2,3 +2,4 @@ docs/
 go.sum
 *.lock
 .idea/
+.git

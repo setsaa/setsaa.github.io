@@ -3,6 +3,8 @@ title = 'Browned Butter Cookies'
 date = 2024-09-02T18:44:17+10:00
 draft = false
 ShowReadingTime = false
+featured = true
+type = 'Recipe'
 +++
 
 ![Cookies](/cookies.png)

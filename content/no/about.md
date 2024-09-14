@@ -3,9 +3,10 @@ title = 'Om meg'
 date = 2024-09-03T10:15:39+10:00
 draft = false
 ShowReadingTime = false
+featured = false
 +++
 
-![Bilde av meg som barn](/young-me.png)Bilde: *Meg som kul kid.*
+![Bilde av meg som barn](/young-me.webp)Bilde: *Meg som kul kid.*
 
 #
 #

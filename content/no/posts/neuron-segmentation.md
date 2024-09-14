@@ -2,6 +2,8 @@
 title = 'Neuronsegmentering'
 date = 2024-09-02
 draft = false
+featured = true
+type = 'Blogginnlegg'
 +++
 
 ![Illustrasjon](/bioscience-image-library-by-fayette-reynolds-WkDk5Dt3tk0-unsplash.jpg)Bilde: Skanning av en del av nervøst vev. *Bioscience Image Library, Fayette Reynolds.*

@@ -1,16 +1,16 @@
 baseURL: https://setsa.no/
 title: Sigurd
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
 publishDir: "docs"
-
 enableRobotsTXT: true
+
+theme: "hugo-PaperMod"
 
 params:
   env: production  # Enable Social-Metadata and SEO
     
-  disableThemeToggle: true
+  # Dark mode
+  disableThemeToggle: false
+  defaultTheme: auto  # dark / light / auto
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -46,6 +46,8 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
+defaultContentLanguage: "en"
+
 languages:
   en:
     disabled: false
@@ -77,6 +79,8 @@ languages:
                 I'm a norwegian AI student. Check out my projects on GitHub or
                 take a look at my experience on LinkedIn. Reach out via my 
                 email below, I always love to have a cup of coffee! ☕"
+        featuredTitle: "Featured pages ⭐"
+        cookiesText: "No cookies here 😎"
 
   "no":
     disabled: false
@@ -108,9 +112,39 @@ languages:
                 Jeg er en KI student i Australia. Sjekk ut prosjektene mine på GitHub eller
                 se på profilen min på LinkedIn. Du kan nå meg med eposten under, jeg tar gjerne
                 en kopp kaffe! ☕"
-
-  Sapmí:
+        featuredTitle: "Fremhevede innlegg ⭐"
+        cookiesText: "Ingen informasjonskapsler her 😎"
+  
+  "sap":
     disabled: true
     contentDir: content/sap
     languageName: Sapmí
     languageCode: sap-SME
+    menus:
+      main:
+      - identifier: about
+        name: Mu birra
+        url: /sap/about/
+        weight: 10
+      - identifier: posts
+        name: Poasttat
+        url: /sap/posts/
+        weight: 20
+      - identifier: recipes
+        name: Reseptat
+        url: /sap/recipes/
+        weight: 30
+      - identifier: linkedin
+        name: LinkedIn
+        url: https://linkedin.com/in/sigurds
+        weight: 40
+    params:
+      homeInfoParams:
+        title: "Dearvva \U0001F44B"
+        content: "
+                Lean studeanta gii lohká artifisála intelligenssa Australias.
+                Geahča mu prošeavttaid GitHubas dahje geahča mu profiilla LinkedInis.
+                Sáhtát váldit oktavuođa muinna e-poastta bokte vuolábealde, mun
+                háliidivččen juhkat gáfe! ☕"
+        featuredTitle: "Čájehuvvon čállosat ⭐"
+        cookiesText: "Dáppe eai leat gáhkut 😎"

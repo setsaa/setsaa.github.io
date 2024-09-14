@@ -3,6 +3,7 @@ title = 'Hi, human 👋'
 date = 2024-09-03T10:15:39+10:00
 draft = false
 ShowReadingTime = false
+featured = false
 +++
 
 ![Old photo of me as a kid, looking cool](/young-me.png)Photo: *Me looking cool as a child.*
