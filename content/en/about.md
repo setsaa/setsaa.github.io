@@ -6,15 +6,15 @@ ShowReadingTime = false
 featured = false
 +++
 
-![Old photo of me as a kid, looking cool](/young-me.png)Photo: *Me looking cool as a child.*
+![Old photo of me as a kid](/young-me.png)Photo: *Me as a kid.*
 
 #
 #
 
-My name is Sigurd and I'm a norwegian AI researcher, student and engineer. I currently live in Sydney, Australia where I'm earning a MSc Artificial Intelligence at University of Technology Sydney (UTS).
+My name is Sigurd and I'm a Norwegian AI engineer. I currently live in Oslo, Norway where I work as a systems consultant for [Knowit](https://www.knowit.eu). I hold a bachelor's degree in Cognitive Science from the University of Bergen and a master's degree in Artificial Intelligence from University of Technology Sydney (UTS).
 
 > Did you know UTS has been [named](https://www.usnews.com/education/best-global-universities/artificial-intelligence) the third best university in the world for artificial intelligence? *Source: US News Education*
 
 I grew up 78° north in Longyearbyen, Svalbard, a Norwegian archipelago close to the north pole where my father worked as a coal miner. Learn more about my story [here](https://vimeo.com/768086673).
 
-I have experience working as Project Manager for Startuplab, Norway's largest and best tech incubator and investor. I also have experience working as an AI Research Engineer in Sydney. Currently, I'm focused on university and I intend to graduate in time by November 2024.
+I have experience working as Project Manager for Startuplab, Norway's largest and best tech incubator and investor. I also have experience working as an AI Research Engineer in Sydney. I'm comfortable both in Python and Java and I have a strong interest in both sustainability and innovation.

@@ -1,6 +1,6 @@
 +++
 title = 'Neuronsegmentering'
-date = 2024-09-02
+date = 2025-01-24
 draft = false
 featured = true
 type = 'Blogginnlegg'

@@ -76,7 +76,7 @@ languages:
       homeInfoParams:
         title: "Heisann \U0001F44B"
         content: "
-                I'm a norwegian AI student. Check out my projects on GitHub or
+                I'm a Norwegian AI engineer. Check out my projects on GitHub or
                 take a look at my experience on LinkedIn. Reach out via my 
                 email below, I always love to have a cup of coffee! ☕"
         featuredTitle: "Featured pages ⭐"
@@ -109,7 +109,7 @@ languages:
       homeInfoParams:
         title: "Heisann \U0001F44B"
         content: "
-                Jeg er en KI student i Australia. Sjekk ut prosjektene mine på GitHub eller
+                Jeg er en AI utvikler i Oslo. Sjekk ut prosjektene mine på GitHub eller
                 se på profilen min på LinkedIn. Du kan nå meg med eposten under, jeg tar gjerne
                 en kopp kaffe! ☕"
         featuredTitle: "Fremhevede innlegg ⭐"
