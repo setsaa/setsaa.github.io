@@ -1,6 +1,6 @@
 +++
 title = 'Neuron Segmentation'
-date = 2025-01-24
+date = 2025-01-23
 draft = false
 featured = true
 type = 'Blog post'
