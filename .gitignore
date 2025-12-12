@@ -3,3 +3,4 @@ go.sum
 *.lock
 .idea/
 .git
+.DS_Store
