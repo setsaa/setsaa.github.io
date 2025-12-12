@@ -1,0 +1,4 @@
+Contact: mailto:sigurd@setsa.no
+Expires: 2026-01-01T00:00:00Z
+Preferred-Languages: en, no
+Canonical: https://setsa.no/.well-known/security.txt
