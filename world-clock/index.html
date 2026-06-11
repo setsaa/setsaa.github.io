@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="World Clock – plan events across time zones" />
+  <title>World Clock · Sigurd Setså</title>
+  <link rel="icon" href="../static/favicon.ico" />
+  <link rel="stylesheet" href="../css/styles.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="hd">
+      <a class="back" href="/">← setsaa.github.io</a>
+      <h1>World Clock</h1>
+      <p class="tagline">Drag the timeline to compare moments across zones</p>
+    </header>
+
+    <div id="zones" class="zones"></div>
+
+    <div class="add-zone">
+      <button id="add-btn" class="add-btn">+ Add time zone</button>
+      <div id="add-panel" class="add-panel" hidden>
+        <input id="tz-search" class="tz-search" type="text" placeholder="Search city or region…" autocomplete="off" spellcheck="false" />
+        <ul id="tz-results" class="tz-results" role="listbox"></ul>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <p>© 2026 Sigurd Johnsen Setså · Oslo, Norway</p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
